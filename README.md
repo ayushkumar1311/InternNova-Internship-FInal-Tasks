@@ -18,3 +18,4 @@ Welcome to my repository for the **InternNova Data Analytics Internship**!
 
 * `Internship experiance.doxc` — Brief internship summary and technical profile.
 * `Resume.pdf` — Professional resume.
+* `Business Insights & Recommendations` — all the images and task 7 
